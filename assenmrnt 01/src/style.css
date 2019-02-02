@@ -1,0 +1,42 @@
+
+body {
+  color: #222;
+  background: #f4f4f4;
+  font: 400 14px CoreSans, Arial, sans-serif;
+  }
+
+  a {
+    color: blue
+  }
+
+  .header{
+    background-color: rgb(65, 175, 107);
+    width: 100px;
+    height: 100px;
+
+
+  }
+
+  .menu{
+    background-color: darksalmon;
+    width: 100px;
+    height: 100px;
+
+
+  }
+
+  .center{
+    background-color: darkmagenta;
+    width: 100px;
+    height: 100px;
+
+
+  }
+
+  .footer{
+    background-color: crimson;
+    width: 100px;
+    height: 100px;
+
+
+  }
